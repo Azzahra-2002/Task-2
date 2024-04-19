@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>background.png</file>
+    <file>coffee beans.png</file>
+    <file>coffee beans_2.png</file>
+    <file>instagram icon.png</file>
+  </qresource>
+</RCC>
